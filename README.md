@@ -1,66 +1,23 @@
-# 👋 Hi, I'm Scott Malin  
-### Cybersecurity Architect • IAM Specialist • Workflow Automation Engineer
+<p align="center">
+  <img src="BANNER_Profile.png" width="85%" alt="Scottmalin68-commits GitHub Profile Banner">
+</p>
 
-I design **deterministic, enterprise‑grade AI frameworks** for Identity, Conditional Access, and security operations. My work focuses on creating **repeatable, auditable, hallucination‑resistant** reasoning systems that help organizations make better decisions with AI.
+<h1 align="center">Scottmalin68‑commits</h1>
+<h3 align="center">Cybersecurity & Automation Architect</h3>
 
-My background spans **22+ years in security engineering**, endpoint defense, automation, and architectural troubleshooting. Today, I build structured prompt frameworks that behave like **mini‑platforms** — complete with simulation modes, hardening logic, documentation engines, and persona‑based analysis.
+<p align="center">
+Designing deterministic, audit‑ready systems that blend security, automation, and clear communication.
+</p>
 
----
-
-## 🔧 What I Build  
-I specialize in designing AI systems that support:
-
-- Identity & Access Management (IAM)  
-- Conditional Access analysis and simulation  
-- Zero Trust alignment  
-- Workflow automation  
-- Security architecture decision‑making  
-- High‑clarity documentation generation  
-
-My repositories form a cohesive suite of tools for security engineers, architects, and analysts.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity_Automation-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Location-Connecticut,_USA-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Experience-20%2B_Years-purple?style=for-the-badge">
+</p>
 
 ---
 
-## 📦 Featured Repositories
+## 🔗 Featured Repositories
 
-### 🌩️ Azure‑Related‑Prompts  
-Advanced Conditional Access and IAM frameworks:  
-- Policy Analyzer  
-- Policy Simulator  
-- Hardening Advisor  
-- Documentation Generator  
-- Access Policy Architect  
-
-### 🔐 IAM‑Prompts  
-Identity governance, RBAC modeling, privileged access workflows, and persona‑based reasoning.
-
-### 🛡️ Cybersecurity‑Prompts  
-Threat modeling, incident response, detection engineering, and structured analysis frameworks.
-
-### ⚙️ PowerShell‑Prompts  
-Automation‑ready prompts for diagnostics, scripting, and enterprise troubleshooting.
-
-### 🎮 SQL‑Learning‑Game‑Engine  
-A gamified SQL learning system with achievements, humor, and modular design.
-
-### 🧠 Misc‑AI‑Prompts  
-General reasoning, interview prep, cognitive load reduction, and multi‑persona analysis.
-
----
-
-## 🧭 My Approach  
-I design prompts the same way I design security systems:
-
-- **Deterministic logic**  
-- **Clear architectural boundaries**  
-- **Simulation and validation modes**  
-- **Structured outputs**  
-- **Zero Trust alignment**  
-- **Documentation‑ready formatting**  
-
-AI should behave like a reliable teammate — not a guessing engine.
-
----
-
-## 📫 Connect  
-If you're building IAM systems, designing CA policies, or exploring AI‑driven security workflows, I’m always open to collaborate.
+- 🛡️ Cybersecurity Prompt Library  
+  High‑impact AI prompts for security, leadership, and
