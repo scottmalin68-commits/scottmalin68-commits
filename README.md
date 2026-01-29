@@ -87,6 +87,25 @@ Gamified learning experiences powered by AI.
 
 ---
 
+# Prompts Shared on LinkedIn (Last updated: January 2026)
+
+These AI prompts from the Cybersecurity-Prompts repo (and one topical one) have been shared and discussed on my LinkedIn profile:
+
+- Conditional Access Policy Analyzer
+- Scam Detection Conversation Helper
+- Incident Command: IR Simulator
+- Advanced Teams Meeting Analyst (Copilot Enhancement)
+- Plain-English Security Concept Explainer
+- Daily Cyber Threat Brief
+- Social Engineering Awareness Quiz
+- Advanced Cybersecurity Threat Intelligence Aggregator
+- Vendor Claim Evaluator – Security Edition
+- Generic Driveway Snow Clearing Advisor (topical for recent storms)
+
+Check the repo for the latest versions.
+
+---
+
 # 🧠 Core Skills & Strengths
 
 ### 🔐 Cybersecurity Engineering  
