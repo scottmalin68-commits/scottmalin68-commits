@@ -50,7 +50,7 @@ CA Policy Conflict Detector</p>
 <h3>⚙️ Automation & Reasoning Frameworks</h3>
 <p><strong>Repos:</strong><br>
 <a href="https://github.com/scottmalin68-commits/Misc-AI-Prompts">Misc‑AI‑Prompts</a><br>
-<a href="https://github.com/scottmalin68-commits/Learning-Games-Prompts">Learning‑Games‑Prompts</a></p>
+<a href="https://github.com/scottmalin68-commits/Learning-Games-Prompts">Learning‑Games-Prompts</a></p>
 
 <p><strong>Featured Assets:</strong><br>
 Explain Like I’m Wrong (ELIW)<br>
@@ -74,7 +74,6 @@ My repositories form a unified ecosystem of reusable reasoning frameworks, gover
 
 <td width="42%" valign="top" align="center">
 
-<!-- Updated image embed for your new, larger, transparent PNG -->
 <img src="Architecture Overview.png" width="100%" alt="Architecture Overview Diagram">
 
 </td>
