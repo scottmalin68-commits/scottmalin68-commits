@@ -18,24 +18,63 @@ Designing deterministic, audit‑ready systems that blend cybersecurity, automat
 
 ---
 
-# 🧭 About Me
+# 🧭 Ecosystem Map
 
-I’m a **Cybersecurity and Automation Architect** specializing in:
+A unified view of my cybersecurity, cloud, automation, and professional‑development tooling. Each repository plays a specific role in a larger architecture designed around governance, reasoning quality, and deterministic automation.
 
-- Endpoint defense and enterprise security engineering  
-- Workflow automation and CI/CD governance  
-- Documentation enforcement pipelines  
-- PowerShell tooling for diagnostics and security posture  
-- AI‑assisted frameworks for clarity, communication, and operational excellence  
+<p align="center">
+  <img src="Architecture Overview.png" width="75%" alt="Ecosystem Architecture Overview">
+</p>
 
-My work blends **security rigor**, **automation discipline**, and **presentation quality** — ensuring that every system, script, and workflow is **auditable, deterministic, and professionally documented**.
+### 🔐 Cybersecurity Engineering  
+**Repos:**  
+- [Cybersecurity‑Prompts](https://github.com/scottmalin68-commits/Cybersecurity-Prompts)  
+- [Cybersecurity‑Learning‑Prompts](https://github.com/scottmalin68-commits/Cybersecurity-Learning-Prompts)  
+- [Powershell_Scripts](https://github.com/scottmalin68-commits/Powershell_Scripts)  
 
-I build systems that are:
-- **Predictable**  
-- **Governed**  
-- **Self‑documenting**  
-- **Reusable**  
-- **Recruiter‑ready**  
+**Featured Assets:**  
+- Threat Intelligence Aggregator  
+- Hardening Recommendation Engine  
+- Cascading Failure Simulator  
+
+---
+
+### ☁️ Cloud & IAM Architecture  
+**Repo:**  
+- [Azure‑Related‑Prompts](https://github.com/scottmalin68-commits/Azure-Related-Prompts)  
+
+**Featured Assets:**  
+- Conditional Access Documentation Generator  
+- Zero Trust Gap Analyzer  
+- CA Policy Conflict Detector  
+
+---
+
+### ⚙️ Automation & Reasoning Frameworks  
+**Repos:**  
+- [Misc‑AI‑Prompts](https://github.com/scottmalin68-commits/Misc-AI-Prompts)  
+- [Learning‑Games‑Prompts](https://github.com/scottmalin68-commits/Learning-Games-Prompts)  
+
+**Featured Assets:**  
+- Explain Like I’m Wrong (ELIW)  
+- Reasoning Validator  
+- DBAR Design Companion  
+
+---
+
+### 🎯 Career & Professional Development  
+**Repo:**  
+- [Job‑Search‑Career‑Prompts](https://github.com/scottmalin68-commits/Job-Search-Career-Prompts)  
+
+**Featured Assets:**  
+- Resume Optimizer  
+- Interview Scenario Generator  
+- STAR Story Builder  
+
+---
+
+### 🧠 Automation Philosophy  
+I design deterministic, audit‑ready automation that reduces cognitive load, enforces documentation standards, and accelerates decision‑making across cybersecurity and cloud environments. My repositories form a unified ecosystem of reusable reasoning frameworks, governance tools, and workflow accelerators — built for engineers, architects, and auditors who demand clarity and consistency.
 
 ---
 
@@ -91,16 +130,16 @@ Gamified learning experiences powered by AI.
 
 These AI prompts from the Cybersecurity-Prompts repo (and one topical one) have been shared and discussed on my LinkedIn profile:
 
-- Conditional Access Policy Analyzer
-- Scam Detection Conversation Helper
-- Incident Command: IR Simulator
-- Advanced Teams Meeting Analyst (Copilot Enhancement)
-- Plain-English Security Concept Explainer
-- Daily Cyber Threat Brief
-- Social Engineering Awareness Quiz
-- Advanced Cybersecurity Threat Intelligence Aggregator
-- Vendor Claim Evaluator – Security Edition
-- Generic Driveway Snow Clearing Advisor (topical for recent storms)
+- Conditional Access Policy Analyzer  
+- Scam Detection Conversation Helper  
+- Incident Command: IR Simulator  
+- Advanced Teams Meeting Analyst (Copilot Enhancement)  
+- Plain-English Security Concept Explainer  
+- Daily Cyber Threat Brief  
+- Social Engineering Awareness Quiz  
+- Advanced Cybersecurity Threat Intelligence Aggregator  
+- Vendor Claim Evaluator – Security Edition  
+- Generic Driveway Snow Clearing Advisor (topical for recent storms)  
 
 Check the repo for the latest versions.
 
