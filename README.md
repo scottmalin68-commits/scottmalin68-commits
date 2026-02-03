@@ -20,11 +20,14 @@ Designing deterministic, audit‑ready systems that blend cybersecurity, automat
 
 # 🧭 Ecosystem Map
 
-A unified view of my cybersecurity, cloud, automation, and professional‑development tooling. Each repository plays a specific role in a larger architecture designed around governance, reasoning quality, and deterministic automation.
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-<p align="center">
-  <img src="Architecture Overview.png" width="75%" alt="Ecosystem Architecture Overview">
-</p>
+A unified view of my cybersecurity, cloud, automation, and professional‑development tooling.  
+Each repository plays a specific role in a larger architecture designed around governance, reasoning quality, and deterministic automation.
+
+---
 
 ### 🔐 Cybersecurity Engineering  
 **Repos:**  
@@ -74,7 +77,16 @@ A unified view of my cybersecurity, cloud, automation, and professional‑develo
 ---
 
 ### 🧠 Automation Philosophy  
-I design deterministic, audit‑ready automation that reduces cognitive load, enforces documentation standards, and accelerates decision‑making across cybersecurity and cloud environments. My repositories form a unified ecosystem of reusable reasoning frameworks, governance tools, and workflow accelerators — built for engineers, architects, and auditors who demand clarity and consistency.
+I design deterministic, audit‑ready automation that reduces cognitive load, enforces documentation standards, and accelerates decision‑making across cybersecurity and cloud environments.  
+My repositories form a unified ecosystem of reusable reasoning frameworks, governance tools, and workflow accelerators — built for engineers, architects, and auditors who demand clarity and consistency.
+
+    </td>
+
+    <td width="40%" align="center" valign="top">
+      <img src="Architecture Overview.png" width="95%" alt="Architecture Overview Diagram">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -126,7 +138,8 @@ Gamified learning experiences powered by AI.
 
 ---
 
-# Prompts Shared on LinkedIn (Last updated: January 2026)
+# Prompts Shared on LinkedIn  
+*(Last updated: January 2026)*
 
 These AI prompts from the Cybersecurity-Prompts repo (and one topical one) have been shared and discussed on my LinkedIn profile:
 
