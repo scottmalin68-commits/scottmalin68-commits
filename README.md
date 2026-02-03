@@ -18,86 +18,67 @@ Designing deterministic, audit‑ready systems that blend cybersecurity, automat
 
 ---
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+# 🧭 Ecosystem Map
 
-<h2>🧭 Ecosystem Map</h2>
-
-<p>
 A unified view of my cybersecurity, cloud, automation, and professional‑development tooling.  
 Each repository plays a specific role in a larger architecture designed around governance, reasoning quality, and deterministic automation.
+
+<p align="center">
+  <img src="Architecture Overview.png" width="75%" alt="Ecosystem Architecture Overview">
 </p>
 
-<hr />
+---
 
-<h3>🔐 Cybersecurity Engineering</h3>
-<p><strong>Repos:</strong><br>
-<a href="https://github.com/scottmalin68-commits/Cybersecurity-Prompts">Cybersecurity‑Prompts</a><br>
-<a href="https://github.com/scottmalin68-commits/Cybersecurity-Learning-Prompts">Cybersecurity‑Learning‑Prompts</a><br>
-<a href="https://github.com/scottmalin68-commits/Powershell_Scripts">Powershell_Scripts</a>
-</p>
+### 🔐 Cybersecurity Engineering  
+**Repos:**  
+- [Cybersecurity‑Prompts](https://github.com/scottmalin68-commits/Cybersecurity-Prompts)  
+- [Cybersecurity‑Learning‑Prompts](https://github.com/scottmalin68-commits/Cybersecurity-Learning-Prompts)  
+- [Powershell_Scripts](https://github.com/scottmalin68-commits/Powershell_Scripts)  
 
-<p><strong>Featured Assets:</strong><br>
-Threat Intelligence Aggregator<br>
-Hardening Recommendation Engine<br>
-Cascading Failure Simulator
-</p>
+**Featured Assets:**  
+- Threat Intelligence Aggregator  
+- Hardening Recommendation Engine  
+- Cascading Failure Simulator  
 
-<hr />
+---
 
-<h3>☁️ Cloud &amp; IAM Architecture</h3>
-<p><strong>Repo:</strong><br>
-<a href="https://github.com/scottmalin68-commits/Azure-Related-Prompts">Azure‑Related‑Prompts</a>
-</p>
+### ☁️ Cloud & IAM Architecture  
+**Repo:**  
+- [Azure‑Related‑Prompts](https://github.com/scottmalin68-commits/Azure-Related-Prompts)  
 
-<p><strong>Featured Assets:</strong><br>
-Conditional Access Documentation Generator<br>
-Zero Trust Gap Analyzer<br>
-CA Policy Conflict Detector
-</p>
+**Featured Assets:**  
+- Conditional Access Documentation Generator  
+- Zero Trust Gap Analyzer  
+- CA Policy Conflict Detector  
 
-<hr />
+---
 
-<h3>⚙️ Automation &amp; Reasoning Frameworks</h3>
-<p><strong>Repos:</strong><br>
-<a href="https://github.com/scottmalin68-commits/Misc-AI-Prompts">Misc‑AI‑Prompts</a><br>
-<a href="https://github.com/scottmalin68-commits/Learning-Games-Prompts">Learning‑Games‑Prompts</a>
-</p>
+### ⚙️ Automation & Reasoning Frameworks  
+**Repos:**  
+- [Misc‑AI‑Prompts](https://github.com/scottmalin68-commits/Misc-AI-Prompts)  
+- [Learning‑Games‑Prompts](https://github.com/scottmalin68-commits/Learning-Games-Prompts)  
 
-<p><strong>Featured Assets:</strong><br>
-Explain Like I’m Wrong (ELIW)<br>
-Reasoning Validator<br>
-DBAR Design Companion
-</p>
+**Featured Assets:**  
+- Explain Like I’m Wrong (ELIW)  
+- Reasoning Validator  
+- DBAR Design Companion  
 
-<hr />
+---
 
-<h3>🎯 Career &amp; Professional Development</h3>
-<p><strong>Repo:</strong><br>
-<a href="https://github.com/scottmalin68-commits/Job-Search-Career-Prompts">Job‑Search‑Career‑Prompts</a>
-</p>
+### 🎯 Career & Professional Development  
+**Repo:**  
+- [Job‑Search‑Career‑Prompts](https://github.com/scottmalin68-commits/Job-Search-Career-Prompts)  
 
-<p><strong>Featured Assets:</strong><br>
-Resume Optimizer<br>
-Interview Scenario Generator<br>
-STAR Story Builder
-</p>
+**Featured Assets:**  
+- Resume Optimizer  
+- Interview Scenario Generator  
+- STAR Story Builder  
 
-<hr />
+---
 
-<h3>🧠 Automation Philosophy</h3>
-<p>
+### 🧠 Automation Philosophy  
 I design deterministic, audit‑ready automation that reduces cognitive load, enforces documentation standards, and accelerates decision‑making across cybersecurity and cloud environments.  
 My repositories form a unified ecosystem of reusable reasoning frameworks, governance tools, and workflow accelerators — built for engineers, architects, and auditors who demand clarity and consistency.
-</p>
-
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="Architecture Overview.png" width="95%" alt="Architecture Overview Diagram">
-    </td>
-  </tr>
-</table>
 
 ---
 
