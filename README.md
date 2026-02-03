@@ -73,7 +73,10 @@ My repositories form a unified ecosystem of reusable reasoning frameworks, gover
 </td>
 
 <td width="42%" valign="top" align="center">
-<img src="Architecture Overview.png" width="80%" alt="Architecture Overview Diagram">
+
+<!-- Updated image embed for your new, larger, transparent PNG -->
+<img src="Architecture Overview.png" width="100%" alt="Architecture Overview Diagram">
+
 </td>
 </tr>
 </table>
