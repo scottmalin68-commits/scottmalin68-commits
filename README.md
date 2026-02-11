@@ -29,9 +29,15 @@ Each repository plays a specific role in a larger architecture designed around g
 
 <h3>🔐 Cybersecurity Engineering</h3>
 <p><strong>Repos:</strong><br>
-<a href="https://github.com/scottmalin68-commits/Cybersecurity-Prompts">Cybersecurity‑Prompts</a><br>
-<a href="https://github.com/scottmalin68-commits/Cybersecurity-Learning-Prompts">Cybersecurity‑Learning‑Prompts</a><br>
-<a href="https://github.com/scottmalin68-commits/Powershell_Scripts">Powershell_Scripts</a></p>
+<a href="https://github.com/scottmalin68-commits/Cybersecurity-Prompts">Cybersecurity‑Prompts</a>  
+<img src="https://img.shields.io/badge/Focus-Security_Prompts-blue?style=flat-square"><br>
+
+<a href="https://github.com/scottmalin68-commits/Cybersecurity-Learning-Prompts">Cybersecurity‑Learning‑Prompts</a>  
+<img src="https://img.shields.io/badge/Focus-Learning_Frameworks-green?style=flat-square"><br>
+
+<a href="https://github.com/scottmalin68-commits/Powershell_Scripts">Powershell_Scripts</a>  
+<img src="https://img.shields.io/badge/Focus-Automation-orange?style=flat-square">
+</p>
 
 <p><strong>Featured Assets:</strong><br>
 Threat Intelligence Aggregator<br>
@@ -40,7 +46,9 @@ Cascading Failure Simulator</p>
 
 <h3>☁️ Cloud & IAM Architecture</h3>
 <p><strong>Repo:</strong><br>
-<a href="https://github.com/scottmalin68-commits/Azure-Related-Prompts">Azure‑Related‑Prompts</a></p>
+<a href="https://github.com/scottmalin68-commits/Azure-Related-Prompts">Azure‑Related‑Prompts</a>  
+<img src="https://img.shields.io/badge/Focus-Azure_IAM-purple?style=flat-square">
+</p>
 
 <p><strong>Featured Assets:</strong><br>
 Conditional Access Documentation Generator<br>
@@ -49,8 +57,12 @@ CA Policy Conflict Detector</p>
 
 <h3>⚙️ Automation & Reasoning Frameworks</h3>
 <p><strong>Repos:</strong><br>
-<a href="https://github.com/scottmalin68-commits/Misc-AI-Prompts">Misc‑AI‑Prompts</a><br>
-<a href="https://github.com/scottmalin68-commits/Learning-Games-Prompts">Learning‑Games-Prompts</a></p>
+<a href="https://github.com/scottmalin68-commits/Misc-AI-Prompts">Misc‑AI‑Prompts</a>  
+<img src="https://img.shields.io/badge/Focus-Utility_Frameworks-blue?style=flat-square"><br>
+
+<a href="https://github.com/scottmalin68-commits/Learning-Games-Prompts">Learning‑Games-Prompts</a>  
+<img src="https://img.shields.io/badge/Focus-Learning_Games-green?style=flat-square">
+</p>
 
 <p><strong>Featured Assets:</strong><br>
 Explain Like I’m Wrong (ELIW)<br>
@@ -58,13 +70,20 @@ Reasoning Validator<br>
 DBAR Design Companion</p>
 
 <h3>🎯 Career & Professional Development</h3>
-<p><strong>Repo:</strong><br>
-<a href="https://github.com/scottmalin68-commits/Job-Search-Career-Prompts">Job‑Search‑Career‑Prompts</a></p>
+<p><strong>Repos:</strong><br>
+<a href="https://github.com/scottmalin68-commits/Job-Search-Career-Prompts">Job‑Search‑Career‑Prompts</a>  
+<img src="https://img.shields.io/badge/Focus-Job_Search-blue?style=flat-square"><br>
+
+<a href="https://github.com/scottmalin68-commits/Personal-Career-Operating-System">Personal‑Career‑Operating‑System</a>  
+<img src="https://img.shields.io/badge/Focus-Career_Intelligence-purple?style=flat-square">
+</p>
 
 <p><strong>Featured Assets:</strong><br>
 Resume Optimizer<br>
 Interview Scenario Generator<br>
-STAR Story Builder</p>
+STAR Story Builder<br>
+Career Operating System (PCOS) – multi‑engine career intelligence framework
+</p>
 
 <h3>🧠 Automation Philosophy</h3>
 <p>I design deterministic, audit‑ready automation that reduces cognitive load, enforces documentation standards, and accelerates decision‑making across cybersecurity and cloud environments.  
@@ -128,6 +147,10 @@ Frameworks for productivity, communication, and structured thinking.
 Gamified learning experiences powered by AI.  
 **Repo:** https://github.com/scottmalin68-commits/Learning-Games-Prompts
 
+### 🧭 Personal Career Operating System (NEW)  
+A multi‑engine system for transforming daily work into long‑term, evidence‑based career intelligence.  
+**Repo:** https://github.com/scottmalin68-commits/Personal-Career-Operating-System
+
 ---
 
 # Prompts Shared on LinkedIn  
@@ -185,9 +208,3 @@ Check the repo for the latest versions.
 - Expand prompt libraries with goal‑driven structure  
 - Build a **cross‑repo dashboard** for visibility and navigation  
 - Continue refining deterministic governance workflows  
-
----
-
-# 📫 Connect
-
-If you’re interested in cybersecurity automation, documentation governance, or building deterministic systems, feel free to explore my repos or reach out.
