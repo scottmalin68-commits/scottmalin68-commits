@@ -16,6 +16,13 @@ Designing deterministic, audit‑ready systems that blend cybersecurity, automat
   <img src="https://img.shields.io/badge/Philosophy-Deterministic_Design-orange?style=for-the-badge">
 </p>
 
+### 📣 A Note on This Work
+All content across these repositories — including prompt frameworks, PowerShell scripts, governance tools, career intelligence systems, and branded documentation patterns — is 100% my own original work.  
+
+In the past few weeks/months I've been on an intense creation sprint, building out this full ecosystem from scratch while applying deterministic design principles to everything I produce. The volume and interconnectedness are intentional: one focused burst of engineering to create reusable, audit-ready assets for cybersecurity, automation, cloud IAM, and professional growth.  
+
+If you're seeing rapid repo growth and detailed, production-grade assets, that's exactly the point — this is real, hands-on architecture work, not forked templates or bulk copies.
+
 ---
 
 <table>
@@ -74,7 +81,7 @@ DBAR Design Companion</p>
 <a href="https://github.com/scottmalin68-commits/Job-Search-Career-Prompts">Job‑Search‑Career‑Prompts</a>  
 <img src="https://img.shields.io/badge/Focus-Job_Search-blue?style=flat-square"><br>
 
-<a href="https://github.com/scottmalin68-commits/Personal-Career-Operating-System">Personal‑Career‑Operating‑System</a>  
+<a href="https://github.com/scottmalin68-commits/Personal-Career-Operating-System">Personal‑Career-Operating-System</a>  
 <img src="https://img.shields.io/badge/Focus-Career_Intelligence-purple?style=flat-square">
 </p>
 
@@ -90,7 +97,6 @@ Career Operating System (PCOS) – multi‑engine career intelligence framework
 My repositories form a unified ecosystem of reusable reasoning frameworks, governance tools, and workflow accelerators — built for engineers, architects, and auditors who demand clarity and consistency.</p>
 
 </td>
-
 <td width="42%" valign="top" align="center">
 
 <img src="Architecture Overview.png" width="100%" alt="Architecture Overview Diagram">
@@ -207,4 +213,4 @@ Check the repo for the latest versions.
 - Publish **reusable GitHub Actions** to the Marketplace  
 - Expand prompt libraries with goal‑driven structure  
 - Build a **cross‑repo dashboard** for visibility and navigation  
-- Continue refining deterministic governance workflows  
+- Continue refining deterministic governance workflows
