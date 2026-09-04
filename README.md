@@ -23,6 +23,10 @@ All content across these repositories — prompt frameworks, PowerShell tools, g
 
 This ecosystem was built with the same discipline I applied for two decades as a security engineer: measurable outcomes, clean audit trails, and zero tolerance for fabrication. The volume and cross-linking are intentional. Every asset is designed to be reusable, versioned, and production-grade.
 
+### 🔄 September 2026 Content Review
+
+A full review of all public repositories is planned for September 2026. The intent is to review and improve content across every public repo — tightening documentation, aligning versions and branding, and raising consistency and quality of prompts, scripts, and supporting materials.
+
 ---
 
 <table>
@@ -198,6 +202,7 @@ Check the individual repositories for the latest versions and changelogs.
 
 # 📈 Current Goals
 
+- Complete a **September 2026 full review** of all public repositories to improve content quality, documentation, version alignment, and consistency
 - Continue refining the **Job-Search-Career-Prompts** intelligence layer (Strategic Integrity, fit engines, OSINT pipelines)
 - Maintain and expand the **Daily Cyber Threat Brief** series for practical public education
 - Keep all repositories under consistent Cyber Blue branding and governance standards
